@@ -1,5 +1,8 @@
-# Trabalho para o desenvolvimento de Aplicação para controle de Computadores de uma loja.
+# UNIVERSIDADE VEIGA DE ALMEIDA
+
+## Trabalho para o desenvolvimento de Aplicação para controle de Computadores de uma loja.
 ### Disciplina: PROGRMAÇÃO ORIENTADA A OBJETOS II
+### Professor: MARCIO AURELIO NOVAES ESTEVES
 ### Tecnologia: JAVA
 
 ## Desenvolvimento de projeto com a aplicação dos conceitos de Particionamento, Agregação e Herança. 
